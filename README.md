@@ -12,17 +12,17 @@
  
 ## How to reach me! 📫
 <div>
-    <a href="https://www.fb.com/pinhak">
+    <a href="https://www.fb.com/pinhak"target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="64"/>
     </a>
     <a href="https://www.instagram.com/schneider.william" target="_blank">
-        <img src="./assets/instagram.png" target="_blank">
+        <img src="./assets/instagram.png">
     </a>
-    <a href="https://www.linkedin.com/in/   william-de-lima-schneider-955a05a5/?locale=en_US"   target="_blank">
+    <a href="https://www.linkedin.com/in/   william-de-lima-schneider-955a05a5/?locale=en_US" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64"/>  
     </a>
-    <a href = "mailto:william.lima.schneider@gmail.com">
-        <img src="./assets/gmail.png" target="_blank">
+    <a href = "mailto:william.lima.schneider@gmail.com" target="_blank">
+        <img src="./assets/gmail.png">
     </a>
 
 <div>
