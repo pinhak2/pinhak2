@@ -1,16 +1,28 @@
-### Hi there 👋
+# Welcome to my profile!
 
-<!--
-**pinhak2/pinhak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Follow up my activity
 
-Here are some ideas to get you started:
+<div>
+<p>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=pinhak2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="pinhak2's stats"/>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhak2&layout=compact&theme=dracula" alt="pinhak2's most languages"/>
+   </p>
+</div>
+ 
+ 
+## How to reach me! 📫
+<div>
+    <a href="https://www.fb.com/pinhak">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="10%"/>
+    </a>
+    <a href="https://www.instagram.com/schneider.william" target="_blank">
+        <img src="./assets/instagram.png" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/   william-de-lima-schneider-955a05a5/?locale=en_US"   target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10%"/>  
+    </a>
+    <a href = "mailto:william.lima.schneider@gmail.com">
+        <img src="./assets/gmail.png" target="_blank">
+    </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
