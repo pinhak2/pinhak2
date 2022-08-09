@@ -13,13 +13,13 @@
 ## How to reach me! 📫
 <div>
     <a href="https://www.fb.com/pinhak">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="10%"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="64"/>
     </a>
     <a href="https://www.instagram.com/schneider.william" target="_blank">
         <img src="./assets/instagram.png" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/   william-de-lima-schneider-955a05a5/?locale=en_US"   target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="10%"/>  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64"/>  
     </a>
     <a href = "mailto:william.lima.schneider@gmail.com">
         <img src="./assets/gmail.png" target="_blank">
