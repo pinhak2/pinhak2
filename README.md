@@ -12,32 +12,32 @@
 ## Additional work
 ### AGES
  <ul>
-    <li><a href="https://tools.ages.pucrs.br/mutirao-do-bem/mutirao-do-bem-wiki/-/wikis/home" target="_blank"><b>Multirão do Bem</b></a></li>
+    <li><a href="https://tools.ages.pucrs.br/mutirao-do-bem/mutirao-do-bem-wiki/-/wikis/home" ><b>Multirão do Bem</b></a></li>
     <ul>
-        <li><a href="https://tools.ages.pucrs.br/mutirao-do-bem/mutirao-do-bem-backend" target="_blank">Backend</a></li>
-        <li><a href="https://tools.ages.pucrs.br/mutirao-do-bem/mutirao-do-bem-web" target="_blank">Frontend</a></li>
+        <li><a href="https://tools.ages.pucrs.br/mutirao-do-bem/mutirao-do-bem-backend" >Backend</a></li>
+        <li><a href="https://tools.ages.pucrs.br/mutirao-do-bem/mutirao-do-bem-web" >Frontend</a></li>
     </ul>
     <br/>
-    <li><a href="https://tools.ages.pucrs.br/orientacao-bucal-no-envelhecimento/orientacao-bucal-no-envelhecimento-wiki/-/wikis/home" target="_blank"><b>Orientação Bucal no Envelhecimento</b></a></li>
+    <li><a href="https://tools.ages.pucrs.br/orientacao-bucal-no-envelhecimento/orientacao-bucal-no-envelhecimento-wiki/-/wikis/home" ><b>Orientação Bucal no Envelhecimento</b></a></li>
     <ul>
-        <li><a href="https://tools.ages.pucrs.br/orientacao-bucal-no-envelhecimento/orientacao-bucal-no-envelhecimento-backend" target="_blank">Backend</a></li>
-        <li><a href="https://tools.ages.pucrs.br/orientacao-bucal-no-envelhecimento/orientacao-bucal-no-envelhecimento-mobile" target="_blank">Frontend</a></li>
+        <li><a href="https://tools.ages.pucrs.br/orientacao-bucal-no-envelhecimento/orientacao-bucal-no-envelhecimento-backend" >Backend</a></li>
+        <li><a href="https://tools.ages.pucrs.br/orientacao-bucal-no-envelhecimento/orientacao-bucal-no-envelhecimento-mobile" >Frontend</a></li>
     </ul>
     <br/>
  </ul>
  
 ## How to reach me! 📫
 <div>
-    <a href="https://www.fb.com/pinhak"target="_blank">
+    <a href="https://www.fb.com/pinhak">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="64"/>
     </a>
-    <a href="https://www.instagram.com/schneider.william" target="_blank">
+    <a href="https://www.instagram.com/schneider.william" >
         <img src="./assets/instagram.png">
     </a>
-    <a href="https://www.linkedin.com/in/william-de-lima-schneider-955a05a5/" target="_blank">
+    <a href="https://www.linkedin.com/in/william-de-lima-schneider-955a05a5/" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="64"/>  
     </a>
-    <a href="mailto:william.lima.schneider@gmail.com" target="_blank">
+    <a href="mailto:william.lima.schneider@gmail.com" >
         <img src="./assets/gmail.png">
     </a>
 
