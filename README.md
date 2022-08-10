@@ -1,6 +1,8 @@
-# Technical Skills
+# I'm William! Thanks for visiting my profile!
 
-## Code
+## Technical Skills
+
+### Code
 
 <div>
     <img widht="20%" height="20%"src="https://img.shields.io/badge/Code-Java-red?style=flat&logo=appveyor" alt="Java"/>
@@ -12,7 +14,7 @@
 
 </div>
 
-## Tools
+### Tools
 
 <div>
     <img widht="20%" height="20%"src="https://img.shields.io/badge/Tool-Figma-blue?style=flat&logo=appveyor" alt="Figma"/>
@@ -28,7 +30,7 @@
 </div>
 <br/>
 
-# Follow up my activity
+## Follow up my activity
 
 <div>
 <p>
@@ -37,8 +39,8 @@
    </p>
 </div>
  
-# Additional work
-## AGES
+## Additional work
+### AGES
  <div>
 The following pages are in Portuguese
     <ul>
@@ -57,7 +59,7 @@ The following pages are in Portuguese
     </ul>
  </div>
 
-# How to reach me! 📫
+## How to reach me! 📫
 
 <div>
     <a href="https://www.fb.com/pinhak">
